@@ -20,3 +20,10 @@
     @apply w-full max-w-[514px] px-8 text-blue placeholder:text-blue-secondary;
   }
 }
+
+*{
+  scroll-behavior: smooth;
+}
+.active{
+  color: orangered;
+}

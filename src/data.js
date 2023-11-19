@@ -13,20 +13,21 @@ import { AiFillYoutube, AiFillInstagram, AiFillGithub } from 'react-icons/ai';
 export const navigation = [
   {
     name: 'home',
-    href: '#',
-  },
-  {
-    name: 'prices',
-    href: '#',
-  },
-  {
-    name: 'contact',
-    href: '#',
+    href: '/',
   },
   {
     name: 'get an appointment',
-    href: '#',
+    href: 'appointment',
   },
+  {
+    name: 'prices',
+    href: 'prices',
+  },
+  {
+    name: 'contact',
+    href: 'contact',
+  },
+
 ];
 
 export const heroSlider = [
