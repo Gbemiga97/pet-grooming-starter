@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/https//gbemiga97.github.io/pet-grooming-starter/static/css/main.7c373f76.css",
+    "main.js": "/https//gbemiga97.github.io/pet-grooming-starter/static/js/main.8e643f20.js",
+    "static/media/dog-slide-3.png": "/https//gbemiga97.github.io/pet-grooming-starter/static/media/dog-slide-3.711e92a568f78a9e801b.png",
+    "static/media/dog-slide-1.png": "/https//gbemiga97.github.io/pet-grooming-starter/static/media/dog-slide-1.6532f2da73eb71559e30.png",
+    "static/media/dog-slide-2.png": "/https//gbemiga97.github.io/pet-grooming-starter/static/media/dog-slide-2.9912c2e4d2b972e6c4b0.png",
+    "static/media/dog-contact.png": "/https//gbemiga97.github.io/pet-grooming-starter/static/media/dog-contact.9a0acc891a062d227b3d.png",
+    "static/media/dog-appointment.png": "/https//gbemiga97.github.io/pet-grooming-starter/static/media/dog-appointment.79f633f797f58be23109.png",
+    "static/media/dog-categ-4.png": "/https//gbemiga97.github.io/pet-grooming-starter/static/media/dog-categ-4.572aadd2c62f94bdb645.png",
+    "static/media/dog-categ-2.png": "/https//gbemiga97.github.io/pet-grooming-starter/static/media/dog-categ-2.ba7db388078543ebc191.png",
+    "static/media/dog-categ-3.png": "/https//gbemiga97.github.io/pet-grooming-starter/static/media/dog-categ-3.f785c631d3d35e92399f.png",
+    "static/media/dog-categ-1.png": "/https//gbemiga97.github.io/pet-grooming-starter/static/media/dog-categ-1.318829522e0ac63643b9.png",
+    "static/media/phone.svg": "/https//gbemiga97.github.io/pet-grooming-starter/static/media/phone.ad26d778814739484a08c873089bb551.svg",
+    "static/media/logo-white.svg": "/https//gbemiga97.github.io/pet-grooming-starter/static/media/logo-white.39e38c168f07dc308e6a2fefeb130423.svg",
+    "static/media/logo.svg": "/https//gbemiga97.github.io/pet-grooming-starter/static/media/logo.cc88d43ef107583cf66bc34e2d3328c0.svg",
+    "index.html": "/https//gbemiga97.github.io/pet-grooming-starter/index.html",
+    "static/media/triangle.svg": "/https//gbemiga97.github.io/pet-grooming-starter/static/media/triangle.c851478ee6a259fd3abc.svg",
+    "main.7c373f76.css.map": "/https//gbemiga97.github.io/pet-grooming-starter/static/css/main.7c373f76.css.map",
+    "main.8e643f20.js.map": "/https//gbemiga97.github.io/pet-grooming-starter/static/js/main.8e643f20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c373f76.css",
+    "static/js/main.8e643f20.js"
+  ]
+}
